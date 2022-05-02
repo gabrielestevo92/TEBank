@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ContaCorrenteTeste" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-02T03:17:21" hostname="DESKTOP-E2ET7B7" time="0.04">
+  <properties/>
+  <testcase name="DeveAdicionarOSaldoNaConta()" classname="ContaCorrenteTeste" time="0.04"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
