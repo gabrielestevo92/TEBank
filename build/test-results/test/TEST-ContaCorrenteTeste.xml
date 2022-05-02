@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ContaCorrenteTeste" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-02T03:17:21" hostname="DESKTOP-E2ET7B7" time="0.04">
+<testsuite name="ContaCorrenteTeste" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-02T03:31:00" hostname="DESKTOP-E2ET7B7" time="0.045">
   <properties/>
-  <testcase name="DeveAdicionarOSaldoNaConta()" classname="ContaCorrenteTeste" time="0.04"/>
+  <testcase name="DeveFazerSubtrairDoSaldoDaConta()" classname="ContaCorrenteTeste" time="0.039"/>
+  <testcase name="DeveAdicionarOSaldoNaConta()" classname="ContaCorrenteTeste" time="0.001"/>
+  <testcase name="TesteDeSaqueEmContaDeSaldoZero()" classname="ContaCorrenteTeste" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
